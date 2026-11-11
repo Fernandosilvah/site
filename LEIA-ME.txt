@@ -1,0 +1,22 @@
+CREDMAIS PLUS - SITE
+====================
+Como publicar (HostGator / cPanel / qualquer hospedagem):
+1. Descompacte este arquivo.
+2. Envie TODO o conteúdo da pasta "credmaisplus-site" para a pasta public_html
+   do seu domínio (Gerenciador de Arquivos ou FTP). O arquivo index.html
+   precisa ficar diretamente dentro de public_html.
+3. Acesse o seu domínio no navegador.
+
+Estrutura:
+  index.html          página principal
+  assets/css          estilos
+  assets/js           simulador e interações
+  assets/img          imagens e logo
+  favicon.ico/.png    ícone da aba
+
+Para editar:
+  - Taxas e produtos: assets/js/main.js (lista "P" no início do arquivo)
+  - Telefone do WhatsApp: procure por 5581982740461 em index.html e main.js
+  - Textos da página: index.html
+
+A fonte (Poppins) é carregada do Google Fonts. Sem internet usa uma fonte padrão.
